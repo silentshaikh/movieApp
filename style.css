@@ -19,7 +19,8 @@ header{
 }
 .navbar h1{
     font-weight: 600;
-    color: #55efc4;
+    color: #00d8d6;
+    text-shadow: 10px 10px 20px #34e7e4;
 }
 #nav-input{
     padding: 15px 40px;
